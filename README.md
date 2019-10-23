@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cnilsen/StravaSegExp.git/master)
+
 ## Strava_SegExp
 *powered by Pandas, Mapbox, and Strava*
 
